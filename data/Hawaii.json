@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "USA-HI",
+            "properties": {
+                "fips": "15",
+                "name": "Hawaii"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        
+                    ]
+                ]
+            }
+        }
+    ]
+}
